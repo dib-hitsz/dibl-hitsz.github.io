@@ -1,4 +1,4 @@
-# Welcome to the Cyber Security Laboratory
+# Welcome to the Digital Intelligent Battery Laboratory
 
 <p style="text-align:justify">
 We are a research group at the College of Computer Science, Chongqing University, China. We aim to explore and solve potential security problems in the field of artificial intelligence and computer science with the rapid development of computer technology in the new environment of the 21st century.
